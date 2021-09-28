@@ -19,7 +19,7 @@ The following is a detailed description of the dataset.
 - [ ] Face encoder to generate face embedding
 
 ## Dataset
-Dataset is available from [here](http://125.39.136.212:8484/3dvggface2_1.tar.gz).
+Dataset is available from [here](http://prof.ict.ac.cn/bdb_uploads/vggface3d_dataset_align.tar.gz).
 
 The data set contains **403,067** pairs of face images of **1,208** people. Each pair of face images is registered and contains an RGB image and a depth image.
 
